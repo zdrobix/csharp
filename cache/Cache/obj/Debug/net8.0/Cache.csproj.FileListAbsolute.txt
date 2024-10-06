@@ -1,0 +1,14 @@
+C:\Alex Zdroba\c# projects\cache\Cache\bin\Debug\net8.0\Cache.exe
+C:\Alex Zdroba\c# projects\cache\Cache\bin\Debug\net8.0\Cache.deps.json
+C:\Alex Zdroba\c# projects\cache\Cache\bin\Debug\net8.0\Cache.runtimeconfig.json
+C:\Alex Zdroba\c# projects\cache\Cache\bin\Debug\net8.0\Cache.dll
+C:\Alex Zdroba\c# projects\cache\Cache\bin\Debug\net8.0\Cache.pdb
+C:\Alex Zdroba\c# projects\cache\Cache\obj\Debug\net8.0\Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex Zdroba\c# projects\cache\Cache\obj\Debug\net8.0\Cache.AssemblyInfoInputs.cache
+C:\Alex Zdroba\c# projects\cache\Cache\obj\Debug\net8.0\Cache.AssemblyInfo.cs
+C:\Alex Zdroba\c# projects\cache\Cache\obj\Debug\net8.0\Cache.csproj.CoreCompileInputs.cache
+C:\Alex Zdroba\c# projects\cache\Cache\obj\Debug\net8.0\Cache.dll
+C:\Alex Zdroba\c# projects\cache\Cache\obj\Debug\net8.0\refint\Cache.dll
+C:\Alex Zdroba\c# projects\cache\Cache\obj\Debug\net8.0\Cache.pdb
+C:\Alex Zdroba\c# projects\cache\Cache\obj\Debug\net8.0\Cache.genruntimeconfig.cache
+C:\Alex Zdroba\c# projects\cache\Cache\obj\Debug\net8.0\ref\Cache.dll

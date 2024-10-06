@@ -1,0 +1,14 @@
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\bin\Debug\net8.0\CookieRecipe.exe
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\bin\Debug\net8.0\CookieRecipe.deps.json
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\bin\Debug\net8.0\CookieRecipe.runtimeconfig.json
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\bin\Debug\net8.0\CookieRecipe.dll
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\bin\Debug\net8.0\CookieRecipe.pdb
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\obj\Debug\net8.0\CookieRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\obj\Debug\net8.0\CookieRecipe.AssemblyInfoInputs.cache
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\obj\Debug\net8.0\CookieRecipe.AssemblyInfo.cs
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\obj\Debug\net8.0\CookieRecipe.csproj.CoreCompileInputs.cache
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\obj\Debug\net8.0\CookieRecipe.dll
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\obj\Debug\net8.0\refint\CookieRecipe.dll
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\obj\Debug\net8.0\CookieRecipe.pdb
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\obj\Debug\net8.0\CookieRecipe.genruntimeconfig.cache
+C:\Alex Zdroba\c# projects\cookies\CookieRecipe\obj\Debug\net8.0\ref\CookieRecipe.dll

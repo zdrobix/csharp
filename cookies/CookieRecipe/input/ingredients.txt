@@ -1,0 +1,27 @@
+1
+Oua
+Spargeti ouale si adaugati-le in bol.
+2
+Lapte
+Turnati cantitatea indicata de lapte in amestec.
+3
+Faina
+Adaugati faina, amestecati pana se omogenizeaza amestecul.
+4
+Zahar
+Adaugati cantitatea indicata de zahar in amestec.
+5
+Unt
+Topiti untul, si adaugati in amestec.
+6
+Ulei
+Adaugati treptat cantitatea specificata de ulei.
+7
+Esenta de vanilie
+Adaugati 2 picaturi din esenta de vanilie.
+8
+Esenta de rom
+Adaugati 2 picaturi din esenta de rom.
+9
+Praf de copt
+Adaugati praful de copt si amestecati.

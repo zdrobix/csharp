@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alex Zdroba\\c# projects\\c#console_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D20478-25D0-4210-891B-9B39E65F4172}|c#console_app_3\\c#console_app_3.csproj|c:\\alex zdroba\\c# projects\\c#console_app\\c#console_app_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D20478-25D0-4210-891B-9B39E65F4172}|c#console_app_3\\c#console_app_3.csproj|solutionrelative:c#console_app_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED48F6D4-CB1D-4F5A-9BD3-1371D073C20D}|c#console_app_2\\c#console_app_2.csproj|c:\\alex zdroba\\c# projects\\c#console_app\\c#console_app_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED48F6D4-CB1D-4F5A-9BD3-1371D073C20D}|c#console_app_2\\c#console_app_2.csproj|solutionrelative:c#console_app_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8650B-1494-4030-975A-E1D473A13887}|c#console_app\\c#console_app.csproj|c:\\alex zdroba\\c# projects\\c#console_app\\c#console_app\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF8650B-1494-4030-975A-E1D473A13887}|c#console_app\\c#console_app.csproj|solutionrelative:c#console_app\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 254,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alex Zdroba\\c# projects\\c#console_app\\c#console_app_3\\Program.cs",
+              "RelativeDocumentMoniker": "c#console_app_3\\Program.cs",
+              "ToolTip": "C:\\Alex Zdroba\\c# projects\\c#console_app\\c#console_app_3\\Program.cs*",
+              "RelativeToolTip": "c#console_app_3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:23:50.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alex Zdroba\\c# projects\\c#console_app\\c#console_app_2\\Program.cs",
+              "RelativeDocumentMoniker": "c#console_app_2\\Program.cs",
+              "ToolTip": "C:\\Alex Zdroba\\c# projects\\c#console_app\\c#console_app_2\\Program.cs",
+              "RelativeToolTip": "c#console_app_2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:57:14.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Alex Zdroba\\c# projects\\c#console_app\\c#console_app\\main.cs",
+              "RelativeDocumentMoniker": "c#console_app\\main.cs",
+              "ToolTip": "C:\\Alex Zdroba\\c# projects\\c#console_app\\c#console_app\\main.cs",
+              "RelativeToolTip": "c#console_app\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:34:12.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

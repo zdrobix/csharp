@@ -1,0 +1,14 @@
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\bin\Debug\net8.0\c#console_app_2.exe
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\bin\Debug\net8.0\c#console_app_2.deps.json
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\bin\Debug\net8.0\c#console_app_2.runtimeconfig.json
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\bin\Debug\net8.0\c#console_app_2.dll
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\bin\Debug\net8.0\c#console_app_2.pdb
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\obj\Debug\net8.0\c#console_app_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\obj\Debug\net8.0\c#console_app_2.AssemblyInfoInputs.cache
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\obj\Debug\net8.0\c#console_app_2.AssemblyInfo.cs
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\obj\Debug\net8.0\c#console_app_2.csproj.CoreCompileInputs.cache
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\obj\Debug\net8.0\c#console_app_2.dll
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\obj\Debug\net8.0\refint\c#console_app_2.dll
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\obj\Debug\net8.0\c#console_app_2.pdb
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\obj\Debug\net8.0\c#console_app_2.genruntimeconfig.cache
+C:\Alex Zdroba\c# projects\c#console_app\c#console_app_2\obj\Debug\net8.0\ref\c#console_app_2.dll

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alex Zdroba\\c# projects\\csvreader_oldproj\\csvreader_oldproj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A45C6E0-527F-413D-89F6-4192F13C6B30}|csvreader_oldproj\\csvreader_oldproj.csproj|c:\\alex zdroba\\c# projects\\csvreader_oldproj\\csvreader_oldproj\\csvreader_oldproj\\tabledatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A45C6E0-527F-413D-89F6-4192F13C6B30}|csvreader_oldproj\\csvreader_oldproj.csproj|solutionrelative:csvreader_oldproj\\tabledatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A45C6E0-527F-413D-89F6-4192F13C6B30}|csvreader_oldproj\\csvreader_oldproj.csproj|c:\\alex zdroba\\c# projects\\csvreader_oldproj\\csvreader_oldproj\\csvreader_oldproj\\tabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A45C6E0-527F-413D-89F6-4192F13C6B30}|csvreader_oldproj\\csvreader_oldproj.csproj|solutionrelative:csvreader_oldproj\\tabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A45C6E0-527F-413D-89F6-4192F13C6B30}|csvreader_oldproj\\csvreader_oldproj.csproj|c:\\alex zdroba\\c# projects\\csvreader_oldproj\\csvreader_oldproj\\csvreader_oldproj\\row.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A45C6E0-527F-413D-89F6-4192F13C6B30}|csvreader_oldproj\\csvreader_oldproj.csproj|solutionrelative:csvreader_oldproj\\row.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 254,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Row.cs",
+              "DocumentMoniker": "C:\\Alex Zdroba\\c# projects\\csvreader_oldproj\\csvreader_oldproj\\csvreader_oldproj\\Row.cs",
+              "RelativeDocumentMoniker": "csvreader_oldproj\\Row.cs",
+              "ToolTip": "C:\\Alex Zdroba\\c# projects\\csvreader_oldproj\\csvreader_oldproj\\csvreader_oldproj\\Row.cs",
+              "RelativeToolTip": "csvreader_oldproj\\Row.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:05:46.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableDataBuilder.cs",
+              "DocumentMoniker": "C:\\Alex Zdroba\\c# projects\\csvreader_oldproj\\csvreader_oldproj\\csvreader_oldproj\\TableDataBuilder.cs",
+              "RelativeDocumentMoniker": "csvreader_oldproj\\TableDataBuilder.cs",
+              "ToolTip": "C:\\Alex Zdroba\\c# projects\\csvreader_oldproj\\csvreader_oldproj\\csvreader_oldproj\\TableDataBuilder.cs",
+              "RelativeToolTip": "csvreader_oldproj\\TableDataBuilder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:06:45.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableData.cs",
+              "DocumentMoniker": "C:\\Alex Zdroba\\c# projects\\csvreader_oldproj\\csvreader_oldproj\\csvreader_oldproj\\TableData.cs",
+              "RelativeDocumentMoniker": "csvreader_oldproj\\TableData.cs",
+              "ToolTip": "C:\\Alex Zdroba\\c# projects\\csvreader_oldproj\\csvreader_oldproj\\csvreader_oldproj\\TableData.cs",
+              "RelativeToolTip": "csvreader_oldproj\\TableData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:06:06.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

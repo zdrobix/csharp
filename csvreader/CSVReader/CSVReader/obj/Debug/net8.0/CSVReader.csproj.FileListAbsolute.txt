@@ -1,0 +1,14 @@
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\obj\Debug\net8.0\CSVReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\obj\Debug\net8.0\CSVReader.AssemblyInfoInputs.cache
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\obj\Debug\net8.0\CSVReader.AssemblyInfo.cs
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\obj\Debug\net8.0\CSVReader.csproj.CoreCompileInputs.cache
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\bin\Debug\net8.0\CSVReader.exe
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\bin\Debug\net8.0\CSVReader.deps.json
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\bin\Debug\net8.0\CSVReader.runtimeconfig.json
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\bin\Debug\net8.0\CSVReader.dll
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\bin\Debug\net8.0\CSVReader.pdb
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\obj\Debug\net8.0\CSVReader.dll
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\obj\Debug\net8.0\refint\CSVReader.dll
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\obj\Debug\net8.0\CSVReader.pdb
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\obj\Debug\net8.0\CSVReader.genruntimeconfig.cache
+C:\Alex Zdroba\c# projects\csvreader\CSVReader\CSVReader\obj\Debug\net8.0\ref\CSVReader.dll

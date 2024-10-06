@@ -1,0 +1,14 @@
+C:\Alex Zdroba\c# projects\gameparser\GameParser\obj\Debug\net8.0\GameParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex Zdroba\c# projects\gameparser\GameParser\obj\Debug\net8.0\GameParser.AssemblyInfoInputs.cache
+C:\Alex Zdroba\c# projects\gameparser\GameParser\obj\Debug\net8.0\GameParser.AssemblyInfo.cs
+C:\Alex Zdroba\c# projects\gameparser\GameParser\obj\Debug\net8.0\GameParser.csproj.CoreCompileInputs.cache
+C:\Alex Zdroba\c# projects\gameparser\GameParser\bin\Debug\net8.0\GameParser.exe
+C:\Alex Zdroba\c# projects\gameparser\GameParser\bin\Debug\net8.0\GameParser.deps.json
+C:\Alex Zdroba\c# projects\gameparser\GameParser\bin\Debug\net8.0\GameParser.runtimeconfig.json
+C:\Alex Zdroba\c# projects\gameparser\GameParser\bin\Debug\net8.0\GameParser.dll
+C:\Alex Zdroba\c# projects\gameparser\GameParser\bin\Debug\net8.0\GameParser.pdb
+C:\Alex Zdroba\c# projects\gameparser\GameParser\obj\Debug\net8.0\GameParser.dll
+C:\Alex Zdroba\c# projects\gameparser\GameParser\obj\Debug\net8.0\refint\GameParser.dll
+C:\Alex Zdroba\c# projects\gameparser\GameParser\obj\Debug\net8.0\GameParser.pdb
+C:\Alex Zdroba\c# projects\gameparser\GameParser\obj\Debug\net8.0\GameParser.genruntimeconfig.cache
+C:\Alex Zdroba\c# projects\gameparser\GameParser\obj\Debug\net8.0\ref\GameParser.dll

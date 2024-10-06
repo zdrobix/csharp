@@ -1,0 +1,14 @@
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\bin\Debug\net8.0\DiceRoll.exe
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\bin\Debug\net8.0\DiceRoll.deps.json
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\bin\Debug\net8.0\DiceRoll.runtimeconfig.json
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\bin\Debug\net8.0\DiceRoll.dll
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\bin\Debug\net8.0\DiceRoll.pdb
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\obj\Debug\net8.0\DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\obj\Debug\net8.0\DiceRoll.AssemblyInfoInputs.cache
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\obj\Debug\net8.0\DiceRoll.AssemblyInfo.cs
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\obj\Debug\net8.0\DiceRoll.csproj.CoreCompileInputs.cache
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\obj\Debug\net8.0\DiceRoll.dll
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\obj\Debug\net8.0\refint\DiceRoll.dll
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\obj\Debug\net8.0\DiceRoll.pdb
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\obj\Debug\net8.0\DiceRoll.genruntimeconfig.cache
+C:\Alex Zdroba\c# projects\diceroll\DiceRoll\DiceRoll\obj\Debug\net8.0\ref\DiceRoll.dll
