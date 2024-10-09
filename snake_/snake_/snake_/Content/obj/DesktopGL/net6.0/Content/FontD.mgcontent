@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>Q:/info/c# projects/snake_/snake_/snake_/Content/FontD.spritefont</SourceFile>
-  <SourceTime>2024-10-06T19:40:33.1568665+03:00</SourceTime>
+  <SourceTime>2024-10-06T21:15:33.9119222+03:00</SourceTime>
   <DestFile>Q:/info/c# projects/snake_/snake_/snake_/Content/bin/DesktopGL/Content/FontD.xnb</DestFile>
-  <DestTime>2024-10-06T19:44:40.4106004+03:00</DestTime>
+  <DestTime>2024-10-07T10:58:35.646008+03:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2022-07-26T14:44:56+03:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

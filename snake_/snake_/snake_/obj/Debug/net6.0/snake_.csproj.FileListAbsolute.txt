@@ -25,3 +25,4 @@ Q:\info\c# projects\snake_\snake_\snake_\obj\Debug\net6.0\refint\snake_.dll
 Q:\info\c# projects\snake_\snake_\snake_\obj\Debug\net6.0\snake_.pdb
 Q:\info\c# projects\snake_\snake_\snake_\obj\Debug\net6.0\snake_.genruntimeconfig.cache
 Q:\info\c# projects\snake_\snake_\snake_\obj\Debug\net6.0\ref\snake_.dll
+Q:\info\c# projects\snake_\snake_\snake_\obj\Debug\net6.0\snake_.sourcelink.json
