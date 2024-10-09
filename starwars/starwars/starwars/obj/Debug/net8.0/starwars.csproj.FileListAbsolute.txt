@@ -1,0 +1,15 @@
+Q:\info\c# projects\starwars\starwars\starwars\bin\Debug\net8.0\starwars.exe
+Q:\info\c# projects\starwars\starwars\starwars\bin\Debug\net8.0\starwars.deps.json
+Q:\info\c# projects\starwars\starwars\starwars\bin\Debug\net8.0\starwars.runtimeconfig.json
+Q:\info\c# projects\starwars\starwars\starwars\bin\Debug\net8.0\starwars.dll
+Q:\info\c# projects\starwars\starwars\starwars\bin\Debug\net8.0\starwars.pdb
+Q:\info\c# projects\starwars\starwars\starwars\obj\Debug\net8.0\starwars.GeneratedMSBuildEditorConfig.editorconfig
+Q:\info\c# projects\starwars\starwars\starwars\obj\Debug\net8.0\starwars.AssemblyInfoInputs.cache
+Q:\info\c# projects\starwars\starwars\starwars\obj\Debug\net8.0\starwars.AssemblyInfo.cs
+Q:\info\c# projects\starwars\starwars\starwars\obj\Debug\net8.0\starwars.csproj.CoreCompileInputs.cache
+Q:\info\c# projects\starwars\starwars\starwars\obj\Debug\net8.0\starwars.sourcelink.json
+Q:\info\c# projects\starwars\starwars\starwars\obj\Debug\net8.0\starwars.dll
+Q:\info\c# projects\starwars\starwars\starwars\obj\Debug\net8.0\refint\starwars.dll
+Q:\info\c# projects\starwars\starwars\starwars\obj\Debug\net8.0\starwars.pdb
+Q:\info\c# projects\starwars\starwars\starwars\obj\Debug\net8.0\starwars.genruntimeconfig.cache
+Q:\info\c# projects\starwars\starwars\starwars\obj\Debug\net8.0\ref\starwars.dll
