@@ -1,6 +1,6 @@
 ﻿using starwars;
 
-Repo repo = await Repo.CreateAsync ("https://swapi.dev/", "api/planets");
+Repo repo = await Repo.CreateAsync();
 Service service = new Service(repo);
 Ui ui = new Ui(service);
 

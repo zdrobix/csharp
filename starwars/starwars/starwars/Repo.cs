@@ -11,32 +11,16 @@ namespace starwars
 {
 	internal class Repo
 	{
-		private List<Planet> PlanetList;
-		private string BaseAddress;
-		private string RequestUri;
-
-		public Repo (string baseAddress, string requestUri)
+		private IEnumerable<Planet> PlanetList;
+		private Repo(IEnumerable<Planet> planetList)
 		{
-			this.BaseAddress = baseAddress;
-			this.RequestUri = requestUri;
-			this.PlanetList = new List<Planet> ();
+			this.PlanetList = planetList;
 		}
-
-		private async Task InitializeAsync()
+		public static async Task<Repo> CreateAsync()
 		{
-			IApiDataReader apiDataReader = new ApiDataReader();
-			var jsonData = await apiDataReader.Read(this.BaseAddress, this.RequestUri); Console.WriteLine(jsonData);
-			var root = JsonSerializer.Deserialize<Root>(jsonData);
-			root.results
-				.Select(res => new Planet(res.name, res.diameter, res.surface_water, res.population))
-				.ToList();
-		}
-
-		public static async Task<Repo> CreateAsync(string baseAddress, string requestUri)
-		{
-			var repo = new Repo(baseAddress, requestUri);
-			await repo.InitializeAsync();
-			return repo;
+			var reader = new ReadPlanets(new ApiDataReader());
+			var planets = await reader.InitializeAsync();
+			return new Repo(planets);
 		}
 
 		public IEnumerable<Planet> getPlanetList() => this.PlanetList;

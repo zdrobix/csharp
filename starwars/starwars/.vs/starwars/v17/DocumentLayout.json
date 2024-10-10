@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "Q:\\info\\c# projects\\starwars\\starwars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\apidatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\apidatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\readplanets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\readplanets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\apidatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|solutionrelative:starwars\\apidatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6B69555-4CC7-4B9F-9BA5-8BAFC7A24DFB}|starwars\\starwars.csproj|q:\\info\\c# projects\\starwars\\starwars\\starwars\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,91 +58,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "ReadPlanets.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\ReadPlanets.cs",
+              "RelativeDocumentMoniker": "starwars\\ReadPlanets.cs",
+              "ToolTip": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\ReadPlanets.cs",
+              "RelativeToolTip": "starwars\\ReadPlanets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:29:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Root.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Root.cs",
               "RelativeDocumentMoniker": "starwars\\Root.cs",
               "ToolTip": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Root.cs",
               "RelativeToolTip": "starwars\\Root.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA3wBUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:48:37.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Ui.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Ui.cs",
               "RelativeDocumentMoniker": "starwars\\Ui.cs",
               "ToolTip": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Ui.cs",
               "RelativeToolTip": "starwars\\Ui.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA6wBsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:30:12.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Service.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Service.cs",
               "RelativeDocumentMoniker": "starwars\\Service.cs",
               "ToolTip": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Service.cs",
               "RelativeToolTip": "starwars\\Service.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:30:06.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Repo.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Repo.cs",
               "RelativeDocumentMoniker": "starwars\\Repo.cs",
               "ToolTip": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Repo.cs",
               "RelativeToolTip": "starwars\\Repo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:29:57.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Planet.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Planet.cs",
               "RelativeDocumentMoniker": "starwars\\Planet.cs",
               "ToolTip": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Planet.cs",
               "RelativeToolTip": "starwars\\Planet.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvw0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:29:44.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ApiDataReader.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\ApiDataReader.cs",
               "RelativeDocumentMoniker": "starwars\\ApiDataReader.cs",
               "ToolTip": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\ApiDataReader.cs",
               "RelativeToolTip": "starwars\\ApiDataReader.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:25:05.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Program.cs",
               "RelativeDocumentMoniker": "starwars\\Program.cs",
               "ToolTip": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Program.cs",
               "RelativeToolTip": "starwars\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:23:10.217Z",
               "EditorCaption": ""

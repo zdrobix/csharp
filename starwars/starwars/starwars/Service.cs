@@ -24,34 +24,35 @@ namespace starwars
 					return new Tuple<Planet, Planet>(
 						this.Repository.getPlanetList()
 											.Select(planet => planet)
-											.OrderBy(planet => int.TryParse(planet.getPopulation(), out int population) ? population : 0)
+											.OrderBy(planet => int.TryParse(planet.getPopulation(), out int population) ? population : int.MaxValue)
 											.First(),
 						this.Repository.getPlanetList()
 											.Select(planet => planet)
-											.OrderBy(planet => int.TryParse(planet.getPopulation(), out int population) ? population : 0)
+											.OrderBy(planet => int.TryParse(planet.getPopulation(), out int population) ? population : int.MinValue)
 											.Last());
 				case "diameter":
 					return new Tuple<Planet, Planet>(
 						this.Repository.getPlanetList()
 											.Select(planet => planet)
-											.OrderBy(planet => int.TryParse(planet.getDiameter(), out int diameter) ? diameter : 0)
+											.OrderBy(planet => int.TryParse(planet.getDiameter(), out int diameter) ? diameter : int.MaxValue)
 											.First(),
 						this.Repository.getPlanetList()
 											.Select(planet => planet)
-											.OrderBy(planet => int.TryParse(planet.getDiameter(), out int diameter) ? diameter : 0)
+											.OrderBy(planet => int.TryParse(planet.getDiameter(), out int diameter) ? diameter : int.MinValue)
 											.Last());
 				case "surface water":
+				case "surfacewater":
 					return new Tuple<Planet, Planet>(
 						this.Repository.getPlanetList()
 											.Select(planet => planet)
-											.OrderBy(planet => int.TryParse(planet.getSurfaceWater(), out int surfaceWater) ? surfaceWater : 0)
+											.OrderBy(planet => int.TryParse(planet.getSurfaceWater(), out int surfaceWater) ? surfaceWater : int.MaxValue)
 											.First(),
 						this.Repository.getPlanetList()
 											.Select(planet => planet)
-											.OrderBy(planet => int.TryParse(planet.getSurfaceWater(), out int surfaceWater) ? surfaceWater : 0)
+											.OrderBy(planet => int.TryParse(planet.getSurfaceWater(), out int surfaceWater) ? surfaceWater : int.MinValue)
 											.Last());
 				default:
-					return null;
+					throw new ArgumentException("Statistic can only be of type: diameter, population and surface water");
 			}
 		}
 
