@@ -2,7 +2,6 @@
 
 namespace starwars
 {
-	// Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
 	public record Result(
 		[property: JsonPropertyName("name")] string name,
 		[property: JsonPropertyName("rotation_period")] string rotation_period,
@@ -17,6 +16,5 @@ namespace starwars
 		[property: JsonPropertyName("films")] IReadOnlyList<string> films,
 		[property: JsonPropertyName("created")] DateTime created,
 		[property: JsonPropertyName("edited")] DateTime edited,
-		[property: JsonPropertyName("url")] string url
-	);
+		[property: JsonPropertyName("url")] string url);
 }

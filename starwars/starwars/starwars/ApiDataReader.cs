@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace starwars
 {
-	internal interface IApiDataReader
-	{
-		Task<string> Read(string baseAddress, string requestUri);
-	}
-
 	internal class ApiDataReader : IApiDataReader
 	{
+		//Class for the api, that implements the api data reader interface.
+		//A method that extracts the data from the base address, and returns the result as a string
 		public async Task<string> Read(string baseAddress, string requestUri)
 		{
 			using HttpClient client = new HttpClient();

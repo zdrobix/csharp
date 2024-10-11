@@ -8,6 +8,7 @@ namespace starwars
 {
 	internal class Planet
 	{
+		//Class for the Planet object. 
 		private string Name;
 		private string Diameter;
 		private string? SurfaceWater;
