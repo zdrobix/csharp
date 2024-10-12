@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/central.jpg","Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/bin/DesktopGL/central.xnb","TextureProcessor","Texture2DContent",36642,810085,0.1556388
+"Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/crosshair.jpg","Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/bin/DesktopGL/crosshair.xnb","TextureProcessor","Texture2DContent",12887,360085,0.1236831
+"Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/crosshair.png","Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/bin/DesktopGL/crosshair.xnb","TextureProcessor","Texture2DContent",1643,10085,0.1263241
+"Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/FontD.spritefont","Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/bin/DesktopGL/FontD.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37922,0.2242532
+"Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/obama.jpg","Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/bin/DesktopGL/obama.xnb","TextureProcessor","Texture2DContent",25898,810085,0.0310952
+"Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/target.png","Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/bin/DesktopGL/target.xnb","TextureProcessor","Texture2DContent",44999,108865,0.1564868
+"Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/trump.jpg","Q:/info/c# projects/shootingguys/ShootingGuys/ShootingGuys/Content/bin/DesktopGL/trump.xnb","TextureProcessor","Texture2DContent",26845,810085,0.0250039
