@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/../../../osama.png","Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/bin/DesktopGL/Content/osama.xnb","TextureProcessor","Texture2DContent",39060,80085,0.6366989
+"Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/FontD.spritefont","Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/bin/DesktopGL/Content/FontD.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37922,0.3166692
+"Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/sadam.png","Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/bin/DesktopGL/Content/sadam.xnb","TextureProcessor","Texture2DContent",14451,200085,0.028179
+"Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/twint.png","Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/bin/DesktopGL/Content/twint.xnb","TextureProcessor","Texture2DContent",1348705,3167885,0.2068651
