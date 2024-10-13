@@ -28,3 +28,8 @@ Q:\info\c# projects\crashingplanes\CrashingPlanes\CrashingPlanes\obj\Debug\net8.
 Q:\info\c# projects\crashingplanes\CrashingPlanes\CrashingPlanes\obj\Debug\net8.0\CrashingPlanes.pdb
 Q:\info\c# projects\crashingplanes\CrashingPlanes\CrashingPlanes\obj\Debug\net8.0\CrashingPlanes.genruntimeconfig.cache
 Q:\info\c# projects\crashingplanes\CrashingPlanes\CrashingPlanes\obj\Debug\net8.0\ref\CrashingPlanes.dll
+Q:\info\c# projects\crashingplanes\CrashingPlanes\CrashingPlanes\bin\Debug\net8.0\Content\plane.xnb
+Q:\info\c# projects\crashingplanes\CrashingPlanes\CrashingPlanes\bin\Debug\net8.0\Content\arabtext.xnb
+Q:\info\c# projects\crashingplanes\CrashingPlanes\CrashingPlanes\bin\Debug\net8.0\Content\sadamalive.xnb
+Q:\info\c# projects\crashingplanes\CrashingPlanes\CrashingPlanes\bin\Debug\net8.0\Content\hidingspot.xnb
+Q:\info\c# projects\crashingplanes\CrashingPlanes\CrashingPlanes\bin\Debug\net8.0\Content\FontDsmall.xnb

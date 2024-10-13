@@ -4,13 +4,23 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/../../../osama.png</File>
+    <File>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/arabtext.png</File>
     <File>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/FontD.spritefont</File>
+    <File>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/FontDsmall.spritefont</File>
+    <File>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/hidingspot.png</File>
+    <File>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/osama.png</File>
+    <File>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/plane.png</File>
     <File>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/sadam.png</File>
+    <File>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/sadamalive.png</File>
     <File>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/twint.png</File>
   </SourceFiles>
   <DestFiles>
-    <File>osama.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

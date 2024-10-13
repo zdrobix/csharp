@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|q:\\info\\c# projects\\crashingplanes\\crashingplanes\\crashingplanes\\osama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|solutionrelative:crashingplanes\\osama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|q:\\info\\c# projects\\crashingplanes\\crashingplanes\\crashingplanes\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|solutionrelative:crashingplanes\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|q:\\info\\c# projects\\crashingplanes\\crashingplanes\\crashingplanes\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|solutionrelative:crashingplanes\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|q:\\info\\c# projects\\crashingplanes\\crashingplanes\\crashingplanes\\osama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|solutionrelative:crashingplanes\\osama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|q:\\info\\c# projects\\crashingplanes\\crashingplanes\\crashingplanes\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|solutionrelative:crashingplanes\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|q:\\info\\c# projects\\crashingplanes\\crashingplanes\\crashingplanes\\sadam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|solutionrelative:crashingplanes\\sadam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|q:\\info\\c# projects\\crashingplanes\\crashingplanes\\crashingplanes\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|solutionrelative:crashingplanes\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|q:\\info\\c# projects\\crashingplanes\\crashingplanes\\crashingplanes\\content\\fontd.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{50A61A7D-95CA-4366-99E1-C50C4E5E7AB5}|CrashingPlanes\\CrashingPlanes.csproj|solutionrelative:crashingplanes\\content\\fontd.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,52 +54,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FontD.spritefont",
+              "DocumentMoniker": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Content\\FontD.spritefont",
+              "RelativeDocumentMoniker": "CrashingPlanes\\Content\\FontD.spritefont",
+              "ToolTip": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Content\\FontD.spritefont",
+              "RelativeToolTip": "CrashingPlanes\\Content\\FontD.spritefont",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-13T09:06:14.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Plane.cs",
+              "RelativeDocumentMoniker": "CrashingPlanes\\Plane.cs",
+              "ToolTip": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Plane.cs",
+              "RelativeToolTip": "CrashingPlanes\\Plane.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T08:28:09.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Controller.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Controller.cs",
               "RelativeDocumentMoniker": "CrashingPlanes\\Controller.cs",
               "ToolTip": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Controller.cs",
               "RelativeToolTip": "CrashingPlanes\\Controller.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA0wDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T16:28:20.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Osama.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Osama.cs",
               "RelativeDocumentMoniker": "CrashingPlanes\\Osama.cs",
               "ToolTip": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Osama.cs",
               "RelativeToolTip": "CrashingPlanes\\Osama.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wCAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T16:00:39.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Sadam.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Sadam.cs",
               "RelativeDocumentMoniker": "CrashingPlanes\\Sadam.cs",
               "ToolTip": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Sadam.cs",
               "RelativeToolTip": "CrashingPlanes\\Sadam.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T16:19:59.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Game1.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Game1.cs",
               "RelativeDocumentMoniker": "CrashingPlanes\\Game1.cs",
               "ToolTip": "Q:\\info\\c# projects\\crashingplanes\\CrashingPlanes\\CrashingPlanes\\Game1.cs",
               "RelativeToolTip": "CrashingPlanes\\Game1.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFgAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T15:51:22.443Z",
               "EditorCaption": ""

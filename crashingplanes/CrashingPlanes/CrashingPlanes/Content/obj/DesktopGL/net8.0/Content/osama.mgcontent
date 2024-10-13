@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/../../../osama.png</SourceFile>
-  <SourceTime>2024-10-12T19:15:13.4635629+03:00</SourceTime>
+  <SourceFile>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/osama.png</SourceFile>
+  <SourceTime>2024-10-13T11:16:53.4643779+03:00</SourceTime>
   <DestFile>Q:/info/c# projects/crashingplanes/CrashingPlanes/CrashingPlanes/Content/bin/DesktopGL/Content/osama.xnb</DestFile>
-  <DestTime>2024-10-12T19:15:49.1515764+03:00</DestTime>
+  <DestTime>2024-10-13T11:17:12.2439884+03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-16T20:05:56+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

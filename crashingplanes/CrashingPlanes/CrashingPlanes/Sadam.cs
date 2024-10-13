@@ -12,13 +12,15 @@ namespace CrashingPlanes
 {
 	public class Sadam
 	{
-		public Vector2 position;
-		public int speed = 250;
+		private Vector2 position;
+		private int speed = 250;
 
 		private Random random = new Random();
 
 		private int width = 500;
 		private int height = 100;
+
+		private bool dead = true;
 
 		public Sadam (int newSpeed)
 		{
@@ -29,10 +31,14 @@ namespace CrashingPlanes
 		public void sadamUpdate(GameTime gameTime)
 		{
 			float deltaTime = (float)gameTime.ElapsedGameTime.TotalSeconds;
-			this.position.X -= this.speed * deltaTime;
+			if (this.dead)
+				this.position.X -= this.speed * deltaTime;
+			else this.position.X += this.speed * deltaTime;
 		}
 
-		public Vector2 getDrawPosition() => new Vector2(this.position.X - 250, this.position.Y - 50);
-
+		public Vector2 getDrawPosition() => new Vector2(this.position.X + 112, this.position.Y + 15);
+		public void reviveSadam() => this.dead = false;
+		public bool isDead() => this.dead;
+		public Vector2 getPosition() => this.position;
 	}
 }
