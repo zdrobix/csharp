@@ -4,20 +4,22 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/../../../../../../PixelArt/Game1/Character1/player.png</File>
+    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/../../../../../../PixelArt/Game1/Character1/walkDown.png</File>
+    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/../../../../../../PixelArt/Game1/Character1/walkLeft.png</File>
+    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/../../../../../../PixelArt/Game1/Character1/walkRight.png</File>
+    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/../../../../../../PixelArt/Game1/Character1/walkUp.png</File>
     <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/background.png</File>
     <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/ball.png</File>
-    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/player.png</File>
-    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/walkDown.png</File>
-    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/walkLeft.png</File>
-    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/walkRight.png</File>
-    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/walkUp.png</File>
+    <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/walkDown2.png</File>
     <File>Q:/info/c# projects/rpg_game/rpg/rpg/Content/skull.png</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
+    <File>player/player.png</File>
+    <File>player/walkDown.png</File>
+    <File>player/walkLeft.png</File>
+    <File>player/walkRight.png</File>
+    <File>player/walkUp.png</File>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

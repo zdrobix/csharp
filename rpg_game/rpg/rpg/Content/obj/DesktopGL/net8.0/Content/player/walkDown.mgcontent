@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/walkDown.png</SourceFile>
-  <SourceTime>2024-10-13T16:59:51.1578917+03:00</SourceTime>
+  <SourceFile>Q:/info/c# projects/rpg_game/rpg/rpg/Content/../../../../../../PixelArt/Game1/Character1/walkDown.png</SourceFile>
+  <SourceTime>2024-10-14T14:12:26.0986144+03:00</SourceTime>
   <DestFile>Q:/info/c# projects/rpg_game/rpg/rpg/Content/bin/DesktopGL/Content/player/walkDown.xnb</DestFile>
-  <DestTime>2024-10-13T17:05:24.8997144+03:00</DestTime>
+  <DestTime>2024-10-14T14:38:39.2930539+03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-16T20:05:56+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

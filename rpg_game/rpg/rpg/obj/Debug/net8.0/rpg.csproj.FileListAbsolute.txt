@@ -33,3 +33,4 @@ Q:\info\c# projects\rpg_game\rpg\rpg\obj\Debug\net8.0\rpg.pdb
 Q:\info\c# projects\rpg_game\rpg\rpg\obj\Debug\net8.0\rpg.genruntimeconfig.cache
 Q:\info\c# projects\rpg_game\rpg\rpg\obj\Debug\net8.0\ref\rpg.dll
 Q:\info\c# projects\rpg_game\rpg\rpg\bin\Debug\net8.0\Comora.dll
+Q:\info\c# projects\rpg_game\rpg\rpg\bin\Debug\net8.0\Content\player\walkDown2.xnb

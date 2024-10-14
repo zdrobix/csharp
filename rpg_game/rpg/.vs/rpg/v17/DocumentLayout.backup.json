@@ -66,8 +66,7 @@
               "RelativeToolTip": "rpg\\Controller.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:17:17.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T07:17:17.614Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "rpg\\Enemy.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:52:52.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T14:52:52.132Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "rpg\\Projectile.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:39:06.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T14:39:06.035Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "rpg\\SpriteAnimation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:25:44.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T14:25:44.753Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "rpg\\Player.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwDAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:06:15.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T14:06:15.969Z"
             },
             {
               "$type": "Document",
@@ -131,8 +126,7 @@
               "RelativeToolTip": "rpg\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:59:23.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:59:23.372Z"
             },
             {
               "$type": "Document",
@@ -142,7 +136,7 @@
               "RelativeDocumentMoniker": "rpg\\Game1.cs",
               "ToolTip": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Game1.cs",
               "RelativeToolTip": "rpg\\Game1.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T13:59:22.306Z",
               "EditorCaption": ""

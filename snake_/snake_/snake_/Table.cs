@@ -75,16 +75,18 @@ namespace snake_
 			switch (level)
 			{
 				case 1:
+				case 3:
 					{
 						spriteBatch.Draw(pixel, new Rectangle(tableLeft - 10, tableTop - 10, tableMeasures.Item1 + 20, tableMeasures.Item2 + 20), Color.Black);
 						spriteBatch.Draw(pixel, new Rectangle(tableLeft, tableTop, tableMeasures.Item1, tableMeasures.Item2), Color.LightBlue);
 						break;
 					}
 				case 2:
+				case 4:
 					{
 						spriteBatch.Draw(pixel, new Rectangle(tableLeft - 10, tableTop - 10, tableMeasures.Item1 + 20, tableMeasures.Item2 + 20), Color.Black);
 						spriteBatch.Draw(pixel, new Rectangle(tableLeft - 10, windowMeasures.Item2 / 2 - 30, tableMeasures.Item1 + 20, 60), Color.White);
-						spriteBatch.Draw(pixel, new Rectangle(tableLeft, tableTop, tableMeasures.Item1, tableMeasures.Item2), Color.Purple);
+						spriteBatch.Draw(pixel, new Rectangle(tableLeft, tableTop, tableMeasures.Item1, tableMeasures.Item2), Color.White);
 						break;
 					}
 			}
