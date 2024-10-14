@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"Q:/info/c# projects/rpg_game/rpg/rpg/Content/background.png","Q:/info/c# projects/rpg_game/rpg/rpg/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",70634,24920149,1.2075737
+"Q:/info/c# projects/rpg_game/rpg/rpg/Content/ball.png","Q:/info/c# projects/rpg_game/rpg/rpg/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",699,36949,0.0205382
+"Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/player.png","Q:/info/c# projects/rpg_game/rpg/rpg/Content/bin/DesktopGL/player/player.xnb","TextureProcessor","Texture2DContent",1072,36949,0.0154642
+"Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/walkDown.png","Q:/info/c# projects/rpg_game/rpg/rpg/Content/bin/DesktopGL/player/walkDown.xnb","TextureProcessor","Texture2DContent",5078,147541,0.0171701
+"Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/walkLeft.png","Q:/info/c# projects/rpg_game/rpg/rpg/Content/bin/DesktopGL/player/walkLeft.xnb","TextureProcessor","Texture2DContent",5640,147541,0.0188262
+"Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/walkRight.png","Q:/info/c# projects/rpg_game/rpg/rpg/Content/bin/DesktopGL/player/walkRight.xnb","TextureProcessor","Texture2DContent",5308,147541,0.0195966
+"Q:/info/c# projects/rpg_game/rpg/rpg/Content/player/walkUp.png","Q:/info/c# projects/rpg_game/rpg/rpg/Content/bin/DesktopGL/player/walkUp.xnb","TextureProcessor","Texture2DContent",4574,147541,0.0178081
+"Q:/info/c# projects/rpg_game/rpg/rpg/Content/skull.png","Q:/info/c# projects/rpg_game/rpg/rpg/Content/bin/DesktopGL/skull.xnb","TextureProcessor","Texture2DContent",9601,506965,0.0340152

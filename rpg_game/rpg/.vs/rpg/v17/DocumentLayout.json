@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Q:\\info\\c# projects\\rpg_game\\rpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|solutionrelative:rpg\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|solutionrelative:rpg\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|solutionrelative:rpg\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|solutionrelative:rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|solutionrelative:rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|solutionrelative:rpg\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\spriteanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE5A0D-818D-4C1A-8CBB-2152CDAE12A8}|rpg\\rpg.csproj|solutionrelative:rpg\\spriteanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Controller.cs",
+              "RelativeDocumentMoniker": "rpg\\Controller.cs",
+              "ToolTip": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Controller.cs",
+              "RelativeToolTip": "rpg\\Controller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:17:17.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Enemy.cs",
+              "RelativeDocumentMoniker": "rpg\\Enemy.cs",
+              "ToolTip": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Enemy.cs",
+              "RelativeToolTip": "rpg\\Enemy.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:52:52.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Projectile.cs",
+              "RelativeDocumentMoniker": "rpg\\Projectile.cs",
+              "ToolTip": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Projectile.cs",
+              "RelativeToolTip": "rpg\\Projectile.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:39:06.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpriteAnimation.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\SpriteAnimation.cs",
+              "RelativeDocumentMoniker": "rpg\\SpriteAnimation.cs",
+              "ToolTip": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\SpriteAnimation.cs",
+              "RelativeToolTip": "rpg\\SpriteAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:25:44.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Player.cs",
+              "RelativeDocumentMoniker": "rpg\\Player.cs",
+              "ToolTip": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Player.cs",
+              "RelativeToolTip": "rpg\\Player.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:06:15.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Program.cs",
+              "RelativeDocumentMoniker": "rpg\\Program.cs",
+              "ToolTip": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Program.cs",
+              "RelativeToolTip": "rpg\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:59:23.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Game1.cs",
+              "RelativeDocumentMoniker": "rpg\\Game1.cs",
+              "ToolTip": "Q:\\info\\c# projects\\rpg_game\\rpg\\rpg\\Game1.cs",
+              "RelativeToolTip": "rpg\\Game1.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwG0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:59:22.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
