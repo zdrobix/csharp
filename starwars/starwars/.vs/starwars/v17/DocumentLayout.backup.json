@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,6 +65,10 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IApiDataReader.cs",
@@ -74,8 +78,7 @@
               "RelativeToolTip": "starwars\\IApiDataReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T06:56:11.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T06:56:11.892Z"
             },
             {
               "$type": "Document",
@@ -87,8 +90,7 @@
               "RelativeToolTip": "starwars\\Result.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:40:03.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T15:40:03.267Z"
             },
             {
               "$type": "Document",
@@ -100,8 +102,7 @@
               "RelativeToolTip": "starwars\\ReadPlanets.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T12:29:58.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T12:29:58.701Z"
             },
             {
               "$type": "Document",
@@ -113,8 +114,7 @@
               "RelativeToolTip": "starwars\\Root.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:48:37.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T10:48:37.194Z"
             },
             {
               "$type": "Document",
@@ -126,8 +126,7 @@
               "RelativeToolTip": "starwars\\Ui.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAjwBsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:30:12.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T10:30:12.596Z"
             },
             {
               "$type": "Document",
@@ -137,7 +136,7 @@
               "RelativeDocumentMoniker": "starwars\\Repo.cs",
               "ToolTip": "Q:\\info\\c# projects\\starwars\\starwars\\starwars\\Repo.cs",
               "RelativeToolTip": "starwars\\Repo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:29:57.777Z",
               "EditorCaption": ""
@@ -152,8 +151,7 @@
               "RelativeToolTip": "starwars\\Service.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:30:06.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T10:30:06.334Z"
             },
             {
               "$type": "Document",
@@ -165,8 +163,7 @@
               "RelativeToolTip": "starwars\\Planet.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:29:44.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T10:29:44.347Z"
             },
             {
               "$type": "Document",
@@ -178,8 +175,7 @@
               "RelativeToolTip": "starwars\\ApiDataReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:25:05.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T10:25:05.169Z"
             },
             {
               "$type": "Document",
@@ -191,8 +187,7 @@
               "RelativeToolTip": "starwars\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T10:23:10.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T10:23:10.217Z"
             }
           ]
         }
