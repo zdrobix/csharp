@@ -42,9 +42,9 @@
               "Title": "Game1.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\shootingguys\\ShootingGuys\\ShootingGuys\\Game1.cs",
               "RelativeDocumentMoniker": "ShootingGuys\\Game1.cs",
-              "ToolTip": "Q:\\info\\c# projects\\shootingguys\\ShootingGuys\\ShootingGuys\\Game1.cs*",
-              "RelativeToolTip": "ShootingGuys\\Game1.cs*",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAEwFsAAAAUAAAAAAAAAA==",
+              "ToolTip": "Q:\\info\\c# projects\\shootingguys\\ShootingGuys\\ShootingGuys\\Game1.cs",
+              "RelativeToolTip": "ShootingGuys\\Game1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAEwEYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T14:24:34.34Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "ShootingGuys\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T14:24:33.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T14:24:33.521Z"
             }
           ]
         }
