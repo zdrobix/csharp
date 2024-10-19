@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZWDZZtD1X8k=",
+  "success": true,
+  "projectFilePath": "Q:\\info\\c# projects\\ticketdata\\ticketdata\\ticketdata\\ticketdata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\pdfpig\\0.1.9\\pdfpig.0.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
