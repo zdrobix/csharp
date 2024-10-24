@@ -1,0 +1,17 @@
+Q:\info\c# projects\numerictype\NumericType\NumericType\bin\Debug\net8.0-windows\NumericType.exe
+Q:\info\c# projects\numerictype\NumericType\NumericType\bin\Debug\net8.0-windows\NumericType.deps.json
+Q:\info\c# projects\numerictype\NumericType\NumericType\bin\Debug\net8.0-windows\NumericType.runtimeconfig.json
+Q:\info\c# projects\numerictype\NumericType\NumericType\bin\Debug\net8.0-windows\NumericType.dll
+Q:\info\c# projects\numerictype\NumericType\NumericType\bin\Debug\net8.0-windows\NumericType.pdb
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\NumericType.NumericType.resources
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\NumericType.csproj.GenerateResource.cache
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\NumericType.GeneratedMSBuildEditorConfig.editorconfig
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\NumericType.AssemblyInfoInputs.cache
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\NumericType.AssemblyInfo.cs
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\NumericType.csproj.CoreCompileInputs.cache
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\NumericType.sourcelink.json
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\NumericType.dll
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\refint\NumericType.dll
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\NumericType.pdb
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\NumericType.genruntimeconfig.cache
+Q:\info\c# projects\numerictype\NumericType\NumericType\obj\Debug\net8.0-windows\ref\NumericType.dll
