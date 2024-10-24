@@ -3,10 +3,12 @@
 namespace ticketdata
 {
 	internal class program()
-	{
+	{	
 		public static void Main()
 		{
-			new Ui().Run();
+			new Ui(
+				new Repo()
+				).Run();
 		}
 	}
 }
