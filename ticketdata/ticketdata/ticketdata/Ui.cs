@@ -23,7 +23,6 @@ namespace ticketdata
 			Console.Write("Tickets loaded, press any key to print: ");
 			Console.ReadKey();
 			Console.WriteLine("\n\n" + this.repo.listTickets());
-
 		}
 	}
 }
