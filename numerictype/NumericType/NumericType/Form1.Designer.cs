@@ -122,7 +122,6 @@
 			resultLabelModification.Name = "resultLabelModification";
 			resultLabelModification.Size = new Size(0, 15);
 			resultLabelModification.TabIndex = 8;
-			resultLabelModification.Text = "";
 			// 
 			// NumericType
 			// 
