@@ -1,8 +1,0 @@
-C:\Alex Zdroba\c# projects\tema1\tema1\bin\Debug\net8.0\tema1.exe
-C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\tema1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\tema1.AssemblyInfoInputs.cache
-C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\tema1.AssemblyInfo.cs
-C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\tema1.csproj.CoreCompileInputs.cache
-C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\tema1.dll
-C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\refint\tema1.dll
-C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\tema1.pdb
