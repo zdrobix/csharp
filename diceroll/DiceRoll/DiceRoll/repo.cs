@@ -9,13 +9,8 @@ namespace DiceRoll
 	internal class Repo
 	{
 		private int number_to_guess;
-
 		public int get_number() => this.number_to_guess;
-
-		public Repo ()
-		{
-			Random random = new Random();
-			this.number_to_guess = random.Next(1, 7);
-		}
+		public Repo () => this.number_to_guess = new Random().Next(1, 7);
+		
 	}
 }

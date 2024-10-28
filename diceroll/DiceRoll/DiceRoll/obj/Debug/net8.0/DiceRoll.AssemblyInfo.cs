@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiceRoll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceffeca40202efa6194a111aec301c0b2ee580ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiceRoll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiceRoll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
