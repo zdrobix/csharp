@@ -8,20 +8,16 @@ namespace passwordgen
 {
 	public class PasswordGenerator
 	{
-		public static string Generate(
+		private Random random;
+		public PasswordGenerator(Random random_) {
+			this.random = random_;
+		}
+		public string Generate(
 			int minLength, int maxLength, bool useSpecialCharacters)
 		{
-			if (minLength < 1)
-			{
-				throw new ArgumentOutOfRangeException(
-					$"leftRange must be greater than 0");
-			}
-			if (maxLength < minLength) { 
-				throw new ArgumentOutOfRangeException(
-					$"leftRange must be smaller than rightRange");
-			}
+			Validator.ValidateData(minLength, maxLength);
 
-			var lengthOfPassword = new Random().Next(minLength, maxLength + 1);
+			var lengthOfPassword = this.random.Next(minLength, maxLength + 1);
 
 			var chars = useSpecialCharacters ?
 				"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" :
@@ -31,7 +27,7 @@ namespace passwordgen
 				Enumerable.Repeat(chars, lengthOfPassword)
 							.Select(
 									chars => 
-									chars[new Random().Next(chars.Length)])
+									chars[this.random.Next(chars.Length)])
 							.ToArray());
 		}
 	}

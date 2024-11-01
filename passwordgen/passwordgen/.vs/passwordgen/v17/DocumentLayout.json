@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "Q:\\info\\c# projects\\passwordgen\\passwordgen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D26C7AB3-3567-4AF8-B407-DE2C3F47B2FF}|passwordgen\\passwordgen.csproj|q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\passwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D26C7AB3-3567-4AF8-B407-DE2C3F47B2FF}|passwordgen\\passwordgen.csproj|solutionrelative:passwordgen\\passwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D26C7AB3-3567-4AF8-B407-DE2C3F47B2FF}|passwordgen\\passwordgen.csproj|q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C7AB3-3567-4AF8-B407-DE2C3F47B2FF}|passwordgen\\passwordgen.csproj|solutionrelative:passwordgen\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D26C7AB3-3567-4AF8-B407-DE2C3F47B2FF}|passwordgen\\passwordgen.csproj|q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D26C7AB3-3567-4AF8-B407-DE2C3F47B2FF}|passwordgen\\passwordgen.csproj|solutionrelative:passwordgen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C7AB3-3567-4AF8-B407-DE2C3F47B2FF}|passwordgen\\passwordgen.csproj|q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\passwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C7AB3-3567-4AF8-B407-DE2C3F47B2FF}|passwordgen\\passwordgen.csproj|solutionrelative:passwordgen\\passwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26C7AB3-3567-4AF8-B407-DE2C3F47B2FF}|passwordgen\\passwordgen.csproj|q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26C7AB3-3567-4AF8-B407-DE2C3F47B2FF}|passwordgen\\passwordgen.csproj|solutionrelative:passwordgen\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +46,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\Validator.cs",
+              "RelativeDocumentMoniker": "passwordgen\\Validator.cs",
+              "ToolTip": "Q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\Validator.cs",
+              "RelativeToolTip": "passwordgen\\Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:20:05.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\Test.cs",
+              "RelativeDocumentMoniker": "passwordgen\\Test.cs",
+              "ToolTip": "Q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\Test.cs",
+              "RelativeToolTip": "passwordgen\\Test.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:09:37.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PasswordGenerator.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\PasswordGenerator.cs",
               "RelativeDocumentMoniker": "passwordgen\\PasswordGenerator.cs",
               "ToolTip": "Q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\PasswordGenerator.cs",
               "RelativeToolTip": "passwordgen\\PasswordGenerator.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T09:31:57.576Z",
               "EditorCaption": ""
@@ -57,7 +91,7 @@
               "RelativeDocumentMoniker": "passwordgen\\Program.cs",
               "ToolTip": "Q:\\info\\c# projects\\passwordgen\\passwordgen\\passwordgen\\Program.cs",
               "RelativeToolTip": "passwordgen\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T08:05:29.972Z",
               "EditorCaption": ""
