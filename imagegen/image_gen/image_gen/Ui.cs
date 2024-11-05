@@ -28,12 +28,9 @@ namespace image_gen
 					ApiResponse apiResponse = await this._apiClient.GetAsync<ApiResponse>(endpoint);
 					await AsciiGen
 						.GenerateAsciiArt(
-							apiResponse.Results!.ElementAt(
-								new Random().Next(
-									0, 
-									apiResponse.Results!.Count()
-								)
-							)
+							apiResponse.Results!
+							.Where(response => response.Width >= 1920 && response.Height >= 1080)
+							.First()
 						);
 				}
 				catch (HttpRequestException e)

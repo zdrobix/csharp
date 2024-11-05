@@ -10,13 +10,14 @@ namespace image_gen
 	public class AsciiGen
 	{
 		private static char[] AsciiChars = { '#', '@', '%', '=', '+', '*', ':', '-', '.', ' ' };
+		//private static char[] AsciiChars = { 'W', 'M', 'B', 'T', 'X', 'x', 'I', '-', '.', ' ' };
 		public AsciiGen() { }
 
 		public static async Task GenerateAsciiArt(Result? result)
 		{
 			if (result?.Urls?.Full != null)
 			{
-				string generatedAsciiArt = await GenerateFromUrl(result.Urls.Full, Console.WindowWidth, Console.WindowHeight);
+				string generatedAsciiArt = await GenerateFromUrl(result.Urls.Full, Console.WindowWidth*2, Console.WindowHeight*2);
 				Console.WriteLine(generatedAsciiArt);
 			}
 		}

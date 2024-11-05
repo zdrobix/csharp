@@ -19,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|solutionrelative:image_gen\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|solutionrelative:image_gen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\getaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|solutionrelative:image_gen\\getaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\urls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|solutionrelative:image_gen\\urls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\getaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|solutionrelative:image_gen\\getaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADADB34-2D94-4B57-98B7-07A52FF9D74B}|image_gen\\image_gen.csproj|solutionrelative:image_gen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,7 +77,7 @@
               "RelativeDocumentMoniker": "image_gen\\ApiResponse.cs",
               "ToolTip": "Q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\ApiResponse.cs",
               "RelativeToolTip": "image_gen\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T10:44:48.907Z",
               "EditorCaption": ""
@@ -90,7 +90,7 @@
               "RelativeDocumentMoniker": "image_gen\\Ui.cs",
               "ToolTip": "Q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\Ui.cs",
               "RelativeToolTip": "image_gen\\Ui.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T10:58:11.123Z",
               "EditorCaption": ""
@@ -103,14 +103,14 @@
               "RelativeDocumentMoniker": "image_gen\\AsciiGen.cs",
               "ToolTip": "Q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\AsciiGen.cs",
               "RelativeToolTip": "image_gen\\AsciiGen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T10:57:19.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "GetAccess.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\GetAccess.cs",
               "RelativeDocumentMoniker": "image_gen\\GetAccess.cs",
@@ -129,14 +129,14 @@
               "RelativeDocumentMoniker": "image_gen\\ApiClient.cs",
               "ToolTip": "Q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\ApiClient.cs",
               "RelativeToolTip": "image_gen\\ApiClient.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAArwBkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBoAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T10:03:28.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\imagegen\\image_gen\\image_gen\\Program.cs",
               "RelativeDocumentMoniker": "image_gen\\Program.cs",
@@ -144,8 +144,7 @@
               "RelativeToolTip": "image_gen\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T10:01:37.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T10:01:37.353Z"
             }
           ]
         }
