@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quotefinder", "quotefinder\quotefinder.csproj", "{1DCA5D2A-EF30-4F12-A771-D21F97C635DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DCA5D2A-EF30-4F12-A771-D21F97C635DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCA5D2A-EF30-4F12-A771-D21F97C635DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCA5D2A-EF30-4F12-A771-D21F97C635DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCA5D2A-EF30-4F12-A771-D21F97C635DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28AE9ADC-1197-4C67-B6C7-33974C486159}
+	EndGlobalSection
+EndGlobal
