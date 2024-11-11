@@ -10,7 +10,6 @@ namespace image_gen
 	public class AsciiGen
 	{
 		private static char[] AsciiChars = { '#', '@', '%', '=', '+', '*', ':', '-', '.', ' ' };
-		//private static char[] AsciiChars = { 'W', 'M', 'B', 'T', 'X', 'x', 'I', '-', '.', ' ' };
 		public AsciiGen() { }
 
 		public static async Task GenerateAsciiArt(Result? result)

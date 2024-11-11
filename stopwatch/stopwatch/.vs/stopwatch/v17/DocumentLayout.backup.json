@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Q:\\info\\c# projects\\stopwatch\\stopwatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C89B26-0C6F-4B60-A6B9-009470EF4BFA}|stopwatch\\stopwatch.csproj|q:\\info\\c# projects\\stopwatch\\stopwatch\\stopwatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C89B26-0C6F-4B60-A6B9-009470EF4BFA}|stopwatch\\stopwatch.csproj|solutionrelative:stopwatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C89B26-0C6F-4B60-A6B9-009470EF4BFA}|stopwatch\\stopwatch.csproj|q:\\info\\c# projects\\stopwatch\\stopwatch\\stopwatch\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C89B26-0C6F-4B60-A6B9-009470EF4BFA}|stopwatch\\stopwatch.csproj|solutionrelative:stopwatch\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stopwatch.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\stopwatch\\stopwatch\\stopwatch\\Stopwatch.cs",
+              "RelativeDocumentMoniker": "stopwatch\\Stopwatch.cs",
+              "ToolTip": "Q:\\info\\c# projects\\stopwatch\\stopwatch\\stopwatch\\Stopwatch.cs",
+              "RelativeToolTip": "stopwatch\\Stopwatch.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:23:36.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\stopwatch\\stopwatch\\stopwatch\\Program.cs",
+              "RelativeDocumentMoniker": "stopwatch\\Program.cs",
+              "ToolTip": "Q:\\info\\c# projects\\stopwatch\\stopwatch\\stopwatch\\Program.cs*",
+              "RelativeToolTip": "stopwatch\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:23:16.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

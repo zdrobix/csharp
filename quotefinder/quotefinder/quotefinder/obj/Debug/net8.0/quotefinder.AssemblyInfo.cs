@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("quotefinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+319d2b51765e644160d871449e85c2b760efec18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ca5518dc20e68d2b92880ef234a1bf38924fc74")]
 [assembly: System.Reflection.AssemblyProductAttribute("quotefinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("quotefinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

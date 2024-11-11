@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("image_gen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0268cda04f4673afb5ac80131c60f4909fd3241c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ca5518dc20e68d2b92880ef234a1bf38924fc74")]
 [assembly: System.Reflection.AssemblyProductAttribute("image_gen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("image_gen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

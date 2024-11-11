@@ -10,7 +10,7 @@ namespace image_gen
 	{
 		public static List<string?>? getCredentials ()
 		{
-			using (var streamReader = new StreamReader("Q:\\info\\c# projects\\imagegen\\keyaccess.txt"))
+			using (var streamReader = new StreamReader("C:\\Users\\Alex\\Desktop\\keyaccess.txt"))
 			{
 				return streamReader.ReadToEnd().Split('\n').ToList()!;
 			}
