@@ -1,0 +1,17 @@
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\bin\Debug\net8.0-windows\loginApplicationUI.exe
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\bin\Debug\net8.0-windows\loginApplicationUI.deps.json
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\bin\Debug\net8.0-windows\loginApplicationUI.runtimeconfig.json
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\bin\Debug\net8.0-windows\loginApplicationUI.dll
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\bin\Debug\net8.0-windows\loginApplicationUI.pdb
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\loginApplicationUI.Form1.resources
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\loginApplicationUI.csproj.GenerateResource.cache
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\loginApplicationUI.GeneratedMSBuildEditorConfig.editorconfig
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\loginApplicationUI.AssemblyInfoInputs.cache
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\loginApplicationUI.AssemblyInfo.cs
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\loginApplicationUI.csproj.CoreCompileInputs.cache
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\loginApplicationUI.sourcelink.json
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\loginApplicationUI.dll
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\refint\loginApplicationUI.dll
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\loginApplicationUI.pdb
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\loginApplicationUI.genruntimeconfig.cache
+Q:\info\c# projects\loginui\loginApplicationUI\loginApplicationUI\obj\Debug\net8.0-windows\ref\loginApplicationUI.dll
