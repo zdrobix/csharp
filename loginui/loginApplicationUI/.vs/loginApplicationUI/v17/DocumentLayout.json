@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{50E4682B-A179-4212-BC1C-7E9C0A4D7DCD}|loginApplicationUI\\loginApplicationUI.csproj|solutionrelative:loginapplicationui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E4682B-A179-4212-BC1C-7E9C0A4D7DCD}|loginApplicationUI\\loginApplicationUI.csproj|q:\\info\\c# projects\\loginui\\loginapplicationui\\loginapplicationui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{50E4682B-A179-4212-BC1C-7E9C0A4D7DCD}|loginApplicationUI\\loginApplicationUI.csproj|Q:\\info\\c# projects\\loginui\\loginApplicationUI\\loginapplicationui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{50E4682B-A179-4212-BC1C-7E9C0A4D7DCD}|loginApplicationUI\\loginApplicationUI.csproj|solutionrelative:loginapplicationui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -67,8 +67,7 @@
               "RelativeToolTip": "loginApplicationUI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:55:44.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T11:55:44.625Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "ToolTip": "Q:\\info\\c# projects\\loginui\\loginApplicationUI\\loginApplicationUI\\Form1.cs [Design]",
               "RelativeToolTip": "loginApplicationUI\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:29:26.987Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-23T11:29:26.987Z"
             },
             {
               "$type": "Document",
