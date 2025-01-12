@@ -19,46 +19,35 @@ namespace tetris.domain
 		public void AddPiece (Piece piece, int columnIndex)
 		{
 			int rowPlace = -1;
-			int leftColumn = columnIndex + piece.LeftOffset;
-			int rightColumn = columnIndex + 4 - piece.RightOffset - 1;
-			for (int row = 19; row >= 0; row--)
+			for (int row = 20 - piece.NrLines; row >= 0; row--)
 			{
 				bool canPlace = true;
-				for (int col = leftColumn; col <= rightColumn; col++)
+
+				for (int j = columnIndex; j < columnIndex + piece.NrCols; j++)
 				{
-					for (int i = 0; i < 4; i++)
+					for ( int i =  row; i < row + piece.NrLines; i ++)
 					{
-						if (piece.Matrix[0, col - leftColumn] != 0)
+						if (piece.Matrix[i - row, j - columnIndex] * this.MatrixTable[i, j] != 0)
 						{
-							int boardRow = row - i;
-							if (boardRow < 0 || boardRow >= 20 || col < 0 || col >= 10 || MatrixTable[boardRow, col] != 0)
-							{
-								canPlace = false;
-								break;
-							}
+							canPlace = false;
+							break;
 						}
 					}
-					if (!canPlace)
-						break;
 				}
+
 				if (canPlace)
 				{
 					rowPlace = row;
 					break;
 				}
 			}
-			if (rowPlace == -1) throw new Exception("Game over");
-
-			for (int i = 0; i < 4; i++)
+			for (int j = columnIndex; j < columnIndex + piece.NrCols; j++)
 			{
-				for (int j = leftColumn; j <= rightColumn; j++)
+				for (int i = rowPlace; i < rowPlace + piece.NrLines; i++)
 				{
-					if (piece.Matrix[i, j - leftColumn] != 0)
-						this.MatrixTable[rowPlace - i, j] = piece.ColourId;
+					this.MatrixTable[i, j] += piece.Matrix[i - rowPlace, j - columnIndex];
 				}
 			}
 		} 
-
-
 	}
 }

@@ -11,9 +11,10 @@ namespace tetris.domain
 	{
 		public int[,] Matrix { get; init; }
 		public int ColourId { get; init; }
+
+		public int NrLines;
+		public int NrCols;
 		private static Random random = new Random();
-		public int LeftOffset { get; init; }
-		public int RightOffset { get; init; }
 
 		public Piece(PieceNames Name)
 		{
@@ -22,93 +23,83 @@ namespace tetris.domain
 			{
 				case PieceNames.l:
 					{
-						Matrix = new int[4, 4]
+						Matrix = new int[3, 1]
 						{
-							{ 0, 0, 0, 0 },
-							{ 0, ColourId, 0, 0 },
-							{ 0, ColourId, 0, 0 },
-							{ 0, ColourId, 0, 0 }
+							{ ColourId},
+							{ ColourId },
+							{ ColourId}
 						};
-						this.LeftOffset = 1;
-						this.RightOffset = 2;
+						this.NrLines = 3;
+						this.NrCols = 1;
+						
 						break;
 					}
 				case PieceNames.o:
 					{
-						Matrix = new int[4, 4]
+						Matrix = new int[2, 2]
 						{
-							{ 0, 0, 0, 0 },
-							{ 0, ColourId, ColourId, 0 },
-							{ 0, ColourId, ColourId, 0 },
-							{ 0, 0, 0, 0 }
+							{ ColourId, ColourId },
+							{ ColourId, ColourId }
 						};
-						this.LeftOffset = 1;
-						this.RightOffset = 1;
+						this.NrLines = 2;
+						this.NrCols = 2;
 						break;
 					}
 				case PieceNames.s:
 					{
-						Matrix = new int[4, 4]
+						Matrix = new int[2, 3]
 						{
-							{ 0, 0, 0, 0 },
-							{ 0, ColourId, ColourId, 0 },
-							{ ColourId, ColourId, 0, 0 },
-							{ 0, 0, 0, 0 }
+							{ 0, ColourId, ColourId},
+							{ ColourId, ColourId, 0},
 						};
-						this.LeftOffset = 0;
-						this.RightOffset = 1;
+						this.NrLines = 2;
+						this.NrCols = 3;
 						break;
 					}
 				case PieceNames.z:
 					{
-						Matrix = new int[4, 4]
+						Matrix = new int[2, 3]
 						{
-							{ 0, 0, 0, 0 },
-							{ ColourId, ColourId, 0, 0 },
-							{ 0, ColourId, ColourId, 0 },
-							{ 0, 0, 0, 0 }
+							{ ColourId, ColourId, 0},
+							{ 0, ColourId, ColourId},
 						};
-						this.LeftOffset = 1;
-						this.RightOffset = 1;
+						this.NrLines = 2;
+						this.NrCols = 3;
 						break;
 					}
 				case PieceNames.L:
 					{
-						Matrix = new int[4, 4]
+						Matrix = new int[3, 2]
 						{
-							{ 0, 0, 0, 0 },
-							{ ColourId, 0, 0, 0 },
-							{ ColourId, 0, 0, 0 },
-							{ ColourId, ColourId, 0, 0 }
+							{ ColourId, 0 },
+							{ ColourId, 0 },
+							{ ColourId, ColourId }
 						};
-						this.LeftOffset = 0;
-						this.RightOffset = 2;
+						this.NrLines = 3;
+						this.NrCols = 2;
 						break;
 					}
 				case PieceNames.J:
 					{
-						Matrix = new int[4, 4]
+						Matrix = new int[3, 2]
 						{
-							{ 0, 0, 0, 0 },
-							{ 0, ColourId, 0, 0 },
-							{ 0, ColourId, 0, 0 },
-							{ ColourId, ColourId, 0, 0 }
+							{ 0, ColourId },
+							{ 0, ColourId},
+							{ ColourId, ColourId }
 						};
-						this.LeftOffset = 0;
-						this.RightOffset = 2;
+						this.NrLines = 3;
+						this.NrCols = 2;
 						break;
 					}
 				case PieceNames.T:
 					{
-						Matrix = new int[4, 4]
+						Matrix = new int[2, 3]
 						{
-							{ 0, 0, 0, 0 },
-							{ 0, 0, 0, 0 },
-							{ ColourId, ColourId, ColourId, 0 },
-							{ 0, ColourId, 0, 0 }
+							{ ColourId, ColourId, ColourId },
+							{ 0, ColourId, 0 }
 						};
-						this.LeftOffset = 0;
-						this.RightOffset = 1;
+						this.NrLines = 2;
+						this.NrCols = 3;
 						break;
 					}
 			}
