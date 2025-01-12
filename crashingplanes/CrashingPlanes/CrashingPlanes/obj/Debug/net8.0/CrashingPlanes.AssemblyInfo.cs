@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrashingPlanes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecf32c19eb7012720bee2ec9aec0b4c90cefd752")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a087389c80402a2e0a26ebe6dda0efdc1612533e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrashingPlanes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrashingPlanes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
