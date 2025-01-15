@@ -18,14 +18,25 @@ namespace tetris.domain
 
 		public void AddPiece (Piece piece, int columnIndex)
 		{
-			int rowPlace = -1;
+			int rowPlace = this.GetFirstRow(piece, columnIndex);
+			for (int j = columnIndex; j < columnIndex + piece.NrCols; j++)
+			{
+				for (int i = rowPlace; i < rowPlace + piece.NrLines; i++)
+				{
+					this.MatrixTable[i, j] += piece.Matrix[i - rowPlace, j - columnIndex];
+				}
+			}
+		} 
+
+		public int GetFirstRow (Piece piece, int columnIndex)
+		{
 			for (int row = 20 - piece.NrLines; row >= 0; row--)
 			{
 				bool canPlace = true;
 
 				for (int j = columnIndex; j < columnIndex + piece.NrCols; j++)
 				{
-					for ( int i =  row; i < row + piece.NrLines; i ++)
+					for (int i = row; i < row + piece.NrLines; i++)
 					{
 						if (piece.Matrix[i - row, j - columnIndex] * this.MatrixTable[i, j] != 0)
 						{
@@ -36,19 +47,12 @@ namespace tetris.domain
 				}
 				if (canPlace)
 				{
-					rowPlace = row;
-					break;
+					return row;
 				}
 			}
-			for (int j = columnIndex; j < columnIndex + piece.NrCols; j++)
-			{
-				for (int i = rowPlace; i < rowPlace + piece.NrLines; i++)
-				{
-					this.MatrixTable[i, j] += piece.Matrix[i - rowPlace, j - columnIndex];
-				}
-			}
-		} 
+			return -1;
 
+		}
 		public List<int> GetFullRow ()
 		{
 			List<int> rows = new List<int>();
