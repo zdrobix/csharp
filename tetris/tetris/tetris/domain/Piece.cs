@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
 
 namespace tetris.domain
 {
@@ -11,6 +13,7 @@ namespace tetris.domain
 	{
 		public PieceNames Name { get; init; }
 		public int[,] Matrix { get; set; }
+		public Vector2 Position { get; set; }
 		public int ColourId { get; init; }
 
 		public int NrLines;
@@ -20,10 +23,11 @@ namespace tetris.domain
 
 		private static Random random = new Random();
 
-		public Piece(PieceNames Name)
+		public Piece(PieceNames Name, int x, int y)
 		{
 			this.Name = Name;
 			this.ColourId = random.Next() % 6 + 1;
+			this.Position = new Vector2(x, y);
 			switch (Name)
 			{
 				case PieceNames.l:
