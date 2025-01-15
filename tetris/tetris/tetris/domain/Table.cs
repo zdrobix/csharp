@@ -34,7 +34,6 @@ namespace tetris.domain
 						}
 					}
 				}
-
 				if (canPlace)
 				{
 					rowPlace = row;
@@ -49,5 +48,48 @@ namespace tetris.domain
 				}
 			}
 		} 
+
+		public List<int> GetFullRow ()
+		{
+			List<int> rows = new List<int>();
+			for ( int i = 0; i < 20; i ++ )
+			{
+				bool isFull = true;
+				for ( int j = 0; j < 10; j ++ )
+					if (this.MatrixTable[i, j] == 0)
+					{
+						isFull = false;
+						break;
+					}
+				if (isFull) rows.Add(i);
+			}
+			return rows;
+		}
+
+		public void DeleteRow (int row)
+		{
+			for (int j = 0; j < 10; j++)
+				this.MatrixTable[row, j] = 0;
+		}
+
+		public void MoveRowsDownByOne (int row)
+		{
+			for (int i = row; i > 0; i --)
+			{
+				for (int j = 0; j < 10; j ++)
+					this.MatrixTable[i, j] = this.MatrixTable[i - 1, j];
+			}
+		}
+
+		public void DebugWriteTable ()
+		{
+			for (int i = 0; i < 20; i++)
+			{
+				string line = "";
+				for (int j = 0; j < 10; j++)
+					line += this.MatrixTable[i, j] + " ";
+				Debug.WriteLine(line);
+			}
+		}
 	}
 }
