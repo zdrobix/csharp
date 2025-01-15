@@ -9,6 +9,7 @@ namespace tetris
 	{
 		public static void Main (string[] args)
 		{
+			/*
 			Table table = new Table();
 			table.AddPiece(new Piece(PieceNames.o), 0);
 			Debug.WriteLine("Added o piece");
@@ -51,11 +52,13 @@ namespace tetris
 				table.MoveRowsDownByOne(row);
 				Debug.WriteLine("Moving rows down from " + row);
 				table.DebugWriteTable();
-			}
+			} */
+
+			using var game = new tetris.Game1();
+			game.Run();
 		}
 	}
 }
 
 
-//using var game = new tetris.Game1();
-//game.Run();
+
