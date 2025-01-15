@@ -50,7 +50,7 @@ namespace snake_
 			this.alive = false;
 		}
 
-		public int level() => this.Body.Count / 10 + 1;
+		public int level() => 1;
 
 		public void hide() => this.visible = false;
 		public void show() => this.visible = true;
