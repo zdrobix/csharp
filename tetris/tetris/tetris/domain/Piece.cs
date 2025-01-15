@@ -14,6 +14,9 @@ namespace tetris.domain
 
 		public int NrLines;
 		public int NrCols;
+
+		public int Rotation = 0;
+
 		private static Random random = new Random();
 
 		public Piece(PieceNames Name)
