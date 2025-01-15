@@ -9,7 +9,8 @@ namespace tetris.domain
 {
 	internal class Piece
 	{
-		public int[,] Matrix { get; init; }
+		public PieceNames Name { get; init; }
+		public int[,] Matrix { get; set; }
 		public int ColourId { get; init; }
 
 		public int NrLines;
@@ -21,7 +22,8 @@ namespace tetris.domain
 
 		public Piece(PieceNames Name)
 		{
-			ColourId = random.Next() % 6 + 1;
+			this.Name = Name;
+			this.ColourId = random.Next() % 6 + 1;
 			switch (Name)
 			{
 				case PieceNames.l:
@@ -106,6 +108,23 @@ namespace tetris.domain
 						break;
 					}
 			}
+		}
+
+		public Piece Rotate()
+		{
+			if (this.Name == PieceNames.o)
+				return this;
+			this.Rotation++;
+			var temp = new int[NrCols, NrLines];
+
+			for (int i = 0; i < NrCols; i++)
+				for (int j = 0; j < NrLines; j++)
+					temp[i, j] = this.Matrix[NrLines - j - 1, i];
+			this.Matrix = temp;
+			var aux = this.NrCols;
+			this.NrCols = NrLines;
+			this.NrLines = aux;
+			return this;
 		}
 	}
 }

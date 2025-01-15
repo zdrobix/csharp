@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{D0CD23FE-463A-4712-9F9D-F812AA05F903}|tetris\\tetris.csproj|solutionrelative:tetris\\domain\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D0CD23FE-463A-4712-9F9D-F812AA05F903}|tetris\\tetris.csproj|q:\\info\\c# projects\\tetris\\tetris\\tetris\\domain\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CD23FE-463A-4712-9F9D-F812AA05F903}|tetris\\tetris.csproj|solutionrelative:tetris\\domain\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0CD23FE-463A-4712-9F9D-F812AA05F903}|tetris\\tetris.csproj|q:\\info\\c# projects\\tetris\\tetris\\tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0CD23FE-463A-4712-9F9D-F812AA05F903}|tetris\\tetris.csproj|solutionrelative:tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0CD23FE-463A-4712-9F9D-F812AA05F903}|tetris\\tetris.csproj|q:\\info\\c# projects\\tetris\\tetris\\tetris\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0CD23FE-463A-4712-9F9D-F812AA05F903}|tetris\\tetris.csproj|solutionrelative:tetris\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CD23FE-463A-4712-9F9D-F812AA05F903}|tetris\\tetris.csproj|q:\\info\\c# projects\\tetris\\tetris\\tetris\\domain\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CD23FE-463A-4712-9F9D-F812AA05F903}|tetris\\tetris.csproj|solutionrelative:tetris\\domain\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0CD23FE-463A-4712-9F9D-F812AA05F903}|tetris\\tetris.csproj|q:\\info\\c# projects\\tetris\\tetris\\tetris\\domain\\colours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,26 +50,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Game1.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\tetris\\tetris\\tetris\\Game1.cs",
               "RelativeDocumentMoniker": "tetris\\Game1.cs",
               "ToolTip": "Q:\\info\\c# projects\\tetris\\tetris\\tetris\\Game1.cs",
               "RelativeToolTip": "tetris\\Game1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T10:19:03.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\tetris\\tetris\\tetris\\Program.cs",
               "RelativeDocumentMoniker": "tetris\\Program.cs",
               "ToolTip": "Q:\\info\\c# projects\\tetris\\tetris\\tetris\\Program.cs",
               "RelativeToolTip": "tetris\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T18:50:21.081Z",
               "EditorCaption": ""
@@ -82,7 +82,7 @@
               "RelativeDocumentMoniker": "tetris\\domain\\Table.cs",
               "ToolTip": "Q:\\info\\c# projects\\tetris\\tetris\\tetris\\domain\\Table.cs",
               "RelativeToolTip": "tetris\\domain\\Table.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T18:13:07.992Z",
               "EditorCaption": ""
@@ -97,8 +97,7 @@
               "RelativeToolTip": "tetris\\domain\\Colours.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T18:01:50.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T18:01:50.249Z"
             },
             {
               "$type": "Document",
@@ -110,18 +109,17 @@
               "RelativeToolTip": "tetris\\domain\\PieceNames.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T17:57:37.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T17:57:37.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Piece.cs",
               "DocumentMoniker": "Q:\\info\\c# projects\\tetris\\tetris\\tetris\\domain\\Piece.cs",
               "RelativeDocumentMoniker": "tetris\\domain\\Piece.cs",
               "ToolTip": "Q:\\info\\c# projects\\tetris\\tetris\\tetris\\domain\\Piece.cs",
               "RelativeToolTip": "tetris\\domain\\Piece.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T17:53:09.864Z",
               "EditorCaption": ""

@@ -26,10 +26,19 @@ namespace tetris
 			Debug.WriteLine("Added o piece");
 			table.DebugWriteTable();
 			table.AddPiece(new Piece(PieceNames.T), 7);
-			Debug.WriteLine("Added o piece");
+			Debug.WriteLine("Added T piece");
 			table.DebugWriteTable();
-			table.AddPiece(new Piece(PieceNames.T), 4);
-			Debug.WriteLine("Added o piece");
+			table.AddPiece(new Piece(PieceNames.T), 5);
+			Debug.WriteLine("Added T piece next");
+			table.DebugWriteTable();
+			table.AddPiece(new Piece(PieceNames.T).Rotate(), 4);
+			Debug.WriteLine("Added T piece rotated");
+			table.DebugWriteTable();
+			table.AddPiece(new Piece(PieceNames.T).Rotate().Rotate(), 4);
+			Debug.WriteLine("Added T piece rotated 2 times");
+			table.DebugWriteTable();
+			table.AddPiece(new Piece(PieceNames.T).Rotate().Rotate().Rotate(), 4);
+			Debug.WriteLine("Added T piece rotated 3 times");
 			table.DebugWriteTable();
 
 			var result = table.GetFullRow();
