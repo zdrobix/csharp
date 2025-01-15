@@ -71,6 +71,9 @@ namespace tetris
 			if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
 				Exit();
 
+			int pieceColumnIndex = (((int)currentPiece.Position.X - (this.windoWidth / 2 - this.tableWidth / 2)) / this.pieceSize) % 10;
+			int pieceLineIndex = (((int)currentPiece.Position.Y - (this.windoHeight / 2 - this.tableHeight / 2)) / this.pieceSize) % 20;
+
 			var keyboardState = Keyboard.GetState();
 			if (keyboardState.IsKeyDown(Keys.Left) && releasedLeft && currentPiece.Position.X > this.windoWidth / 2 - this.tableWidth / 2)
 			{
@@ -84,7 +87,7 @@ namespace tetris
 			}
 			if (keyboardState.IsKeyDown(Keys.Down) && this.releasedDown)
 			{
-				this.GameTable.AddPiece(currentPiece, (((int)currentPiece.Position.X - (this.windoWidth / 2 - this.tableWidth / 2)) / this.pieceSize) % 10);
+				this.GameTable.AddPiece(currentPiece, pieceColumnIndex);
 				this.currentPiece = new Piece((PieceNames)random.Next(0, Enum.GetValues(typeof(PieceNames)).Length), this.windoWidth / 2, this.windoHeight / 2 - tableHeight / 2);
 				this.releasedDown = false;
 			}
@@ -116,6 +119,12 @@ namespace tetris
 			{
 				currentPiece.Position = new Vector2(currentPiece.Position.X, currentPiece.Position.Y + this.pieceSize);
 				timeSinceLastMove = 0;
+			}
+
+			if (pieceLineIndex == this.GameTable.GetFirstRow(currentPiece, pieceColumnIndex))
+			{
+				this.GameTable.AddPiece(currentPiece, pieceColumnIndex);
+				this.currentPiece = new Piece((PieceNames)random.Next(0, Enum.GetValues(typeof(PieceNames)).Length), this.windoWidth / 2, this.windoHeight / 2 - tableHeight / 2);
 			}
 
 			this.GameTable.GetFullRow().ForEach(

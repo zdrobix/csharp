@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\tetris\tetris.exe
+C:\Users\Alex\Desktop\tetris\Content/FontD.xnb
+C:\Users\Alex\Desktop\tetris\tetris.dll
+C:\Users\Alex\Desktop\tetris\tetris.deps.json
+C:\Users\Alex\Desktop\tetris\tetris.runtimeconfig.json
+C:\Users\Alex\Desktop\tetris\tetris.pdb
+C:\Users\Alex\Desktop\tetris\MonoGame.Framework.dll
+C:\Users\Alex\Desktop\tetris\NVorbis.dll
+C:\Users\Alex\Desktop\tetris\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Alex\Desktop\tetris\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Alex\Desktop\tetris\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Alex\Desktop\tetris\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Alex\Desktop\tetris\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Alex\Desktop\tetris\runtimes\osx\native\libSDL2.dylib
+C:\Users\Alex\Desktop\tetris\runtimes\win-x64\native\SDL2.dll
