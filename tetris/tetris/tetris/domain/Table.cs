@@ -38,6 +38,7 @@ namespace tetris.domain
 				{
 					for (int i = row; i < row + piece.NrLines; i++)
 					{
+						if (j >= 10) break;
 						if (piece.Matrix[i - row, j - columnIndex] * this.MatrixTable[i, j] != 0)
 						{
 							canPlace = false;
@@ -51,7 +52,6 @@ namespace tetris.domain
 				}
 			}
 			return -1;
-
 		}
 		public List<int> GetFullRow ()
 		{
