@@ -32,13 +32,14 @@ namespace tetris.domain
 			{
 				case PieceNames.l:
 					{
-						Matrix = new int[3, 1]
+						Matrix = new int[4, 1]
 						{
 							{ ColourId},
 							{ ColourId },
+							{ ColourId},
 							{ ColourId}
 						};
-						this.NrLines = 3;
+						this.NrLines = 4;
 						this.NrCols = 1;
 						
 						break;
