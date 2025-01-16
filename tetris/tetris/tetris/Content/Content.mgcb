@@ -13,10 +13,22 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin Cymatics - Vocal Chant 63.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Cymatics - Vocal Chant 63.wav
+
 #begin FontD.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
 /processorParam:PremultiplyAlpha=True
 /processorParam:TextureFormat=Compressed
 /build:FontD.spritefont
+
+#begin samplecom.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:samplecom.mp3
 

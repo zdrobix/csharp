@@ -25,3 +25,6 @@ Q:\info\c# projects\tetris\tetris\tetris\obj\Debug\net8.0\refint\tetris.dll
 Q:\info\c# projects\tetris\tetris\tetris\obj\Debug\net8.0\tetris.pdb
 Q:\info\c# projects\tetris\tetris\tetris\obj\Debug\net8.0\tetris.genruntimeconfig.cache
 Q:\info\c# projects\tetris\tetris\tetris\obj\Debug\net8.0\ref\tetris.dll
+Q:\info\c# projects\tetris\tetris\tetris\bin\Debug\net8.0\Content\Cymatics - Vocal Chant 63.xnb
+Q:\info\c# projects\tetris\tetris\tetris\bin\Debug\net8.0\Content\samplecom.ogg
+Q:\info\c# projects\tetris\tetris\tetris\bin\Debug\net8.0\Content\samplecom.xnb

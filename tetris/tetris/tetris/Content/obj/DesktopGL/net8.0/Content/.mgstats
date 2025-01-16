@@ -1,2 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"Q:/info/c# projects/tetris/tetris/tetris/Content/Cymatics - Vocal Chant 63.wav","Q:/info/c# projects/tetris/tetris/tetris/Content/bin/DesktopGL/Content/Cymatics - Vocal Chant 63.xnb","SoundEffectProcessor","SoundEffectContent",94548,94609,0.2482226
 "Q:/info/c# projects/tetris/tetris/tetris/Content/FontD.spritefont","Q:/info/c# projects/tetris/tetris/tetris/Content/bin/DesktopGL/Content/FontD.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37922,0.2179848
+"Q:/info/c# projects/tetris/tetris/tetris/Content/samplecom.mp3","Q:/info/c# projects/tetris/tetris/tetris/Content/bin/DesktopGL/Content/samplecom.xnb","SongProcessor","SongContent",3665154,127,3.2065296

@@ -4,9 +4,13 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>Q:/info/c# projects/tetris/tetris/tetris/Content/Cymatics - Vocal Chant 63.wav</File>
     <File>Q:/info/c# projects/tetris/tetris/tetris/Content/FontD.spritefont</File>
+    <File>Q:/info/c# projects/tetris/tetris/tetris/Content/samplecom.mp3</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
