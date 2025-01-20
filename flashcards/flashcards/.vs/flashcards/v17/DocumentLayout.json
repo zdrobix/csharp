@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Q:\\info\\c# projects\\flashcards\\flashcards\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|solutionrelative:flashcards\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|solutionrelative:flashcards\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|solutionrelative:flashcards\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|solutionrelative:flashcards\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|solutionrelative:flashcards\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D621577-92A5-4B90-8D90-53DA896A641C}|flashcards\\flashcards.csproj|solutionrelative:flashcards\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\App.xaml.cs",
+              "RelativeDocumentMoniker": "flashcards\\App.xaml.cs",
+              "ToolTip": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\App.xaml.cs",
+              "RelativeToolTip": "flashcards\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:34:58.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "input.txt",
+              "DocumentMoniker": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\input.txt",
+              "RelativeDocumentMoniker": "flashcards\\input.txt",
+              "ToolTip": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\input.txt",
+              "RelativeToolTip": "flashcards\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-20T15:25:24.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\Service.cs",
+              "RelativeDocumentMoniker": "flashcards\\Service.cs",
+              "ToolTip": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\Service.cs",
+              "RelativeToolTip": "flashcards\\Service.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:16:09.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\Repo.cs",
+              "RelativeDocumentMoniker": "flashcards\\Repo.cs",
+              "ToolTip": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\Repo.cs",
+              "RelativeToolTip": "flashcards\\Repo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:07:26.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\Card.cs",
+              "RelativeDocumentMoniker": "flashcards\\Card.cs",
+              "ToolTip": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\Card.cs",
+              "RelativeToolTip": "flashcards\\Card.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:06:20.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "flashcards\\MainWindow.xaml.cs",
+              "ToolTip": "Q:\\info\\c# projects\\flashcards\\flashcards\\flashcards\\MainWindow.xaml.cs",
+              "RelativeToolTip": "flashcards\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:05:40.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
