@@ -161,6 +161,8 @@ namespace tetris
 			}
 
 			if (this.GameTable.GetFirstRow(currentPiece, pieceColumnIndex) == -1) this.gameOver = true;
+			//if (this.GameTable.GetFirstRow(currentPiece
+			//, pieceColumnIndex) < pieceLineIndex) this.gameOver = true;
 
 			this.GameTable.GetFullRow().ForEach(
 				x => { 

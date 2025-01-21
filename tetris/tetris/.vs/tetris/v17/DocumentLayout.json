@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "tetris\\Game1.cs",
               "ToolTip": "Q:\\info\\c# projects\\tetris\\tetris\\tetris\\Game1.cs",
               "RelativeToolTip": "tetris\\Game1.cs",
-              "ViewState": "AgIAAO0AAAAAAAAAAAAQwPcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAANsAAAAAAAAAAAAQwKMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T10:19:03.644Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "tetris\\domain\\Table.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAowB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T18:13:07.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T18:13:07.992Z"
             },
             {
               "$type": "Document",
@@ -104,8 +103,7 @@
               "RelativeToolTip": "tetris\\domain\\Piece.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAwwCkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T17:53:09.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T17:53:09.864Z"
             }
           ]
         }
