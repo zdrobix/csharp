@@ -1,0 +1,14 @@
+Q:\info\web\tetris\tetris.exe
+Q:\info\web\tetris\tetris.dll
+Q:\info\web\tetris\tetris.deps.json
+Q:\info\web\tetris\tetris.runtimeconfig.json
+Q:\info\web\tetris\tetris.pdb
+Q:\info\web\tetris\MonoGame.Framework.dll
+Q:\info\web\tetris\NVorbis.dll
+Q:\info\web\tetris\runtimes\linux-x64\native\libopenal.so.1
+Q:\info\web\tetris\runtimes\osx\native\libopenal.1.dylib
+Q:\info\web\tetris\runtimes\win-x64\native\soft_oal.dll
+Q:\info\web\tetris\runtimes\win-x86\native\soft_oal.dll
+Q:\info\web\tetris\runtimes\linux-x64\native\libSDL2-2.0.so.0
+Q:\info\web\tetris\runtimes\osx\native\libSDL2.dylib
+Q:\info\web\tetris\runtimes\win-x64\native\SDL2.dll
