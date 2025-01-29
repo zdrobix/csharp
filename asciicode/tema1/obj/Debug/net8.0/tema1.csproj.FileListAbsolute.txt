@@ -6,3 +6,18 @@ C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\tema1.csproj.CoreCompile
 C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\tema1.dll
 C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\refint\tema1.dll
 C:\Alex Zdroba\c# projects\tema1\tema1\obj\Debug\net8.0\tema1.pdb
+Q:\info\c# projects\asciicode\tema1\bin\Debug\net8.0\tema1.exe
+Q:\info\c# projects\asciicode\tema1\bin\Debug\net8.0\tema1.deps.json
+Q:\info\c# projects\asciicode\tema1\bin\Debug\net8.0\tema1.runtimeconfig.json
+Q:\info\c# projects\asciicode\tema1\bin\Debug\net8.0\tema1.dll
+Q:\info\c# projects\asciicode\tema1\bin\Debug\net8.0\tema1.pdb
+Q:\info\c# projects\asciicode\tema1\obj\Debug\net8.0\tema1.GeneratedMSBuildEditorConfig.editorconfig
+Q:\info\c# projects\asciicode\tema1\obj\Debug\net8.0\tema1.AssemblyInfoInputs.cache
+Q:\info\c# projects\asciicode\tema1\obj\Debug\net8.0\tema1.AssemblyInfo.cs
+Q:\info\c# projects\asciicode\tema1\obj\Debug\net8.0\tema1.csproj.CoreCompileInputs.cache
+Q:\info\c# projects\asciicode\tema1\obj\Debug\net8.0\tema1.sourcelink.json
+Q:\info\c# projects\asciicode\tema1\obj\Debug\net8.0\tema1.dll
+Q:\info\c# projects\asciicode\tema1\obj\Debug\net8.0\refint\tema1.dll
+Q:\info\c# projects\asciicode\tema1\obj\Debug\net8.0\tema1.pdb
+Q:\info\c# projects\asciicode\tema1\obj\Debug\net8.0\tema1.genruntimeconfig.cache
+Q:\info\c# projects\asciicode\tema1\obj\Debug\net8.0\ref\tema1.dll

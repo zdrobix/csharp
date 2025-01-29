@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Alex Zdroba\\c# projects\\tema1\\",
+  "WorkspaceRootPath": "Q:\\info\\c# projects\\asciicode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42A55D1D-951A-4D02-B428-886BE35BECD4}|tema1\\tema1.csproj|c:\\alex zdroba\\c# projects\\tema1\\tema1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42A55D1D-951A-4D02-B428-886BE35BECD4}|tema1\\tema1.csproj|q:\\info\\c# projects\\asciicode\\tema1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42A55D1D-951A-4D02-B428-886BE35BECD4}|tema1\\tema1.csproj|solutionrelative:tema1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 254,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -24,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Alex Zdroba\\c# projects\\tema1\\tema1\\Program.cs",
+              "DocumentMoniker": "Q:\\info\\c# projects\\asciicode\\tema1\\Program.cs",
               "RelativeDocumentMoniker": "tema1\\Program.cs",
-              "ToolTip": "C:\\Alex Zdroba\\c# projects\\tema1\\tema1\\Program.cs",
+              "ToolTip": "Q:\\info\\c# projects\\asciicode\\tema1\\Program.cs",
               "RelativeToolTip": "tema1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T09:12:28.103Z",
               "EditorCaption": ""
